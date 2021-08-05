@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Click to see Resume</summary>
 <br>
-This is how you dropdown.
+![Resume](https://imgur.com/UNlJbAk.png)
 </details>
