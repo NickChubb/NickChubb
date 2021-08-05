@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <details>
 <summary>Click to see Resume</summary>
 <br>
-![Resume](https://imgur.com/UNlJbAk.png)
+<img src="https://imgur.com/UNlJbAk.png" title="resume">
 </details>
