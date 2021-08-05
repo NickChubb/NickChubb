@@ -11,7 +11,7 @@ In my free time I enjoy reading, going to the gym, and occasionally, when the mo
 <details>
 <summary>Click Here to see my Resume</summary>
 <br>
-<img src="https://imgur.com/UNlJbAk.png" title="resume">
+<img src="https://github.com/NickChubb/NickChubb/blob/main/Nicholas_Chubb_SWE_Resume.png?raw=true" title="resume">
 </details>
 
 
