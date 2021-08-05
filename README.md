@@ -1,22 +1,18 @@
-### Hi there 👋
+## Nick Chubb 👨‍💻
 
-<!--
-**NickChubb/NickChubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Website](https://nickchubb.ca) | [Blog](https://chubb.blog) | [LinkedIn](https://www.linkedin.com/in/nickrchubb/) | [Send me an email!](mailto://nick@nickchubb.ca)
 
-Here are some ideas to get you started:
+👋 Hi, I am a Computer Science & Molecular Biology student and aspiring Full-Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have an avid interest in the field of software engineering, and currently I am working on furthering my own software skills by developing my own React web applications.  
+
+Occasionally, when the mood strikes me, I also enjoy writing posts on my blog.
 
 <details>
-<summary>Click to see Resume</summary>
+<summary>Click Here to see my Resume</summary>
 <br>
 <img src="https://imgur.com/UNlJbAk.png" title="resume">
 </details>
+
+
+### 👇 Check out my favourite projects below 👇
