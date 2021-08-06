@@ -1,6 +1,6 @@
 ## Nick Chubb 👨‍💻
 
-[Website](https://nickchubb.ca) | [Blog](https://chubb.blog) | [LinkedIn](https://www.linkedin.com/in/nickrchubb/) | [Send me an email!](mailto://nick@nickchubb.ca)
+[Website](https://nickchubb.ca) | [Blog](https://chubb.blog) | [LinkedIn](https://www.linkedin.com/in/nickrchubb/) | [Resume](https://nickchubb.github.io/resume/) | [Send me an email!](mailto://nick@nickchubb.ca)
 
 👋 Hi, I am a Computer Science & Molecular Biology student and aspiring Full-Stack Developer.
 
