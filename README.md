@@ -2,7 +2,7 @@
 
 [Website](https://nickchubb.ca) | [Blog](https://chubb.blog) | [LinkedIn](https://www.linkedin.com/in/nickrchubb/) | [Resume](https://nickchubb.github.io/resume/) | [Send me an email!](mailto://nick@nickchubb.ca)
 
-<a href="https://www.google.com/" style="color: #33ff33;">custom link</a>
+<a href="https://www.google.com/" style="color: #33ff33; text-decoration: none;">custom link</a>
 
 👋 Hi, I am a Computer Science & Molecular Biology student and aspiring Full-Stack Developer.
 
